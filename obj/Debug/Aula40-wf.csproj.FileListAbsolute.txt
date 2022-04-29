@@ -1,0 +1,11 @@
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\bin\Debug\Aula40-wf.exe.config
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\bin\Debug\Aula40-wf.exe
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\bin\Debug\Aula40-wf.pdb
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\obj\Debug\Aula40-wf.csproj.AssemblyReference.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\obj\Debug\Aula40-wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\obj\Debug\Aula40_wf.Form1.resources
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\obj\Debug\Aula40_wf.Properties.Resources.resources
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\obj\Debug\Aula40-wf.csproj.GenerateResource.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\obj\Debug\Aula40-wf.csproj.CoreCompileInputs.cache
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\obj\Debug\Aula40-wf.exe
+C:\Users\nanar\source\repos\CSharpIntermediario\Aula40-wf\obj\Debug\Aula40-wf.pdb
